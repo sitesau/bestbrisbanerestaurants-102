@@ -1,0 +1,22 @@
+{
+  "wheel_id": 677,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-102",
+  "project": "restaurants-brisbane-how-to-choose-debc5fdb21140c1578114439d556",
+  "parent_t1_ref": "bestbrisbanerestaurants-150",
+  "node_role": "feeder",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurants brisbane how to choose",
+  "intended_url": "https://aumedia.neocities.org/restaurants-brisbane-how-to-choose-debc5fdb21140c1578114439d556/",
+  "tier": "T2",
+  "writeback_nonce": "09559b4ab502f91a",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bestbrisbanerestaurants-150/",
+      "anchor": "this restaurants brisbane quotes explained resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
